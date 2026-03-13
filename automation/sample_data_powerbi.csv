@@ -1,0 +1,30 @@
+DateTime,Platform,Country,ReportCategory,Segment,Value1,Value2,Value3,Value4,Value5,Qualifier1,Qualifier2
+2025-12-07T00:00:00,Desktop,India,Weekly Report Data,All India,6238746.10,2553426.92,77253270.39,174828,1960814,832,,
+2025-12-07T00:00:00,Desktop,,Weekly Report Data,City Wise,98268435.54,4895417.14,40056010.28,4008898,1082551,70836070,,
+2025-12-07T00:00:00,Desktop,,Weekly Report Data,Attibute Search,84410136.27,1370377.48,92696490.28,7821007,9779114,5159063,,
+2025-12-07T00:00:00,Desktop,,Weekly Report Data,Non Attibute Search,20109735.85,1355325.62,91242530.30,2222311,2026740,5090113,,
+2025-12-07T00:00:00,Desktop,,Other Segments Weekly,Company Searches,1431029.53,1795952.94,89867230.26,5828092,5533251,0422,,
+2025-12-07T00:00:00,Desktop,,Other Segments Weekly,Without MCAT,1997425.49,3141082.76,35926700.22,7295484,9703570,0552,,
+2025-12-07T00:00:00,Desktop,,Result Count Weekly,Less Results,10735822.03,1893295.36,15007730.16,6703925,8535936,205756,,
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Traffic,All India,31672219.25,9161031.11,10690130.18,1480922,4241332,380,City Search,Unidentified
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Traffic,All India,1673125.13,896360.81,8839280.24,3201243,2059201,00100,All India,Unidentified
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Traffic,All India,33712839.62,1449429.11,4638950.30,5068105,5168951,1580,City Search,Identified
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Traffic,All India,1738951.48,6571971.60,96382770.35,3901892,3052310,1020,All India,Identified
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Traffic,All India,32144246.47,0280811.16,842230.35,3018585,3029083,1850,City Search,Full login
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Traffic,All India,2755555.63,7815285.02,9940120.50,6078752,4449949,60460,All India,Full login
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report User Wise,City Search,106379,,,,,Unidentified,
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report User Wise,City Search,52845,,,,,Full login,
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report User Wise,City Search,89413,,,,,Identified,
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report User Wise,All India,6155,,,,,Full login,
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report User Wise,All India,6775,,,,,Unidentified,
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report User Wise,All India,6024,,,,,Identified,
+2025-12-07T00:00:00,Desktop,Foreign,Impact Analysis Report Distance Wise Enquiries,All India,0,,,,,Unidentified,Beyond 250km
+2025-12-07T00:00:00,Desktop,Foreign,Impact Analysis Report Distance Wise Enquiries,City Search,0,,,,,,Within 50km
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Distance Wise Enquiries,All India,0,,,,,,Within 50km
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Distance Wise Enquiries,City Search,1612,,,,,Unidentified,Within 50km
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Distance Wise Enquiries,All India,18,,,,,Unidentified,Within 50km
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Distance Wise Enquiries,City Search,14745,,,,,Identified,Within 50km
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Distance Wise Enquiries,All India,180,,,,,Identified,Within 50km
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Distance Wise Enquiries,City Search,16555,,,,,Full login,Within 50km
+2025-12-07T00:00:00,Desktop,India,Impact Analysis Report Distance Wise Enquiries,All India,102,,,,,Full login,Within 50km
+...
